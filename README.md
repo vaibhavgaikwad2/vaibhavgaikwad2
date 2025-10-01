@@ -27,7 +27,7 @@ Currently, I'm focused on building my technical skills and working on exciting p
 - **LinkedIn:** https://www.linkedin.com/in/vaibhavgaikwad4636
 - **Email:** vaibhav.gaikwad.emails@gmail.com
 - **Twitter:** https://x.com/Im_Vaibhav2
-- **Portfolio:** vaibhavgaikwad2.githubio.com
+- **Portfolio:** vaibhavgaikwad2.github.io.com
 
 ---
 
